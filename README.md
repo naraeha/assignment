@@ -12,10 +12,10 @@ npm run dev
 ## 환경 변수 설정
 
 프로젝트 루트에 `.env` 파일 생성:
-
+```
 VITE_API_BASE_URL=<API_서버_URL>
 VITE_WS_BASE_URL=<WebSocket_서버_URL>
-
+```
 
 ## 로그인 계정
 

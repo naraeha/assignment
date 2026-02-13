@@ -41,10 +41,11 @@ VITE_WS_BASE_URL=<WebSocket_서버_URL>
 - i18next
 
 ## 폴더 구조
-
+```
 src/
 ├── api/          # API 호출
 ├── pages/        # 페이지 컴포넌트
 ├── hooks/        # 커스텀 훅
 ├── store/        # Zustand 스토어
 └── locales/      # 다국어 파일
+```

@@ -1,0 +1,29 @@
+{
+  "login": {
+    "title": "스마트 농장 관제 시스템",
+    "email": "이메일",
+    "password": "비밀번호",
+    "button": "로그인",
+    "error": "이메일 또는 비밀번호가 올바르지 않습니다"
+  },
+  "dashboard": {
+    "title": "돈사 현황",
+    "pigs": "마리",
+    "activity": "활동량",
+    "feeding": "급이 시간",
+    "temperature": "체온",
+    "abnormal": "이상 징후"
+  },
+  "detail": {
+    "title": "상세 그래프",
+    "back": "돌아가기",
+    "activity": "활동량",
+    "feeding": "급이 시간 (분)"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "retry": "다시 시도",
+    "logout": "로그아웃"
+  }
+}

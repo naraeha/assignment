@@ -1,0 +1,29 @@
+{
+  "login": {
+    "title": "Smart Farm Control System",
+    "email": "Email",
+    "password": "Password",
+    "button": "Login",
+    "error": "Invalid email or password"
+  },
+  "dashboard": {
+    "title": "Pen Status",
+    "pigs": "pigs",
+    "activity": "Activity",
+    "feeding": "Feeding Time",
+    "temperature": "Temperature",
+    "abnormal": "Abnormal"
+  },
+  "detail": {
+    "title": "Detail Graph",
+    "back": "Back",
+    "activity": "Activity",
+    "feeding": "Feeding Time (min)"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "logout": "Logout"
+  }
+}
